@@ -1,0 +1,28 @@
+{
+  "name": "jquery.kyco.googleplusfeed2",
+  "version": "2.1.2",
+  "homepage": "www.kycosoftware.com",
+  "description": "The best Google+ feed widget out there!",
+  "main": "dist/jquery.kyco.googleplusfeed2.min.js",
+  "authors": [
+    "Cornelius Weidmann"
+  ],
+  "license": "GPLv3",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "_release": "2.1.2",
+  "_resolution": {
+    "type": "version",
+    "tag": "2.1.2",
+    "commit": "e3171be4d9434c94e4d31996aac88aecf4851c9b"
+  },
+  "_source": "git://github.com/kyco/jquery.kyco.googleplusfeed2.git",
+  "_target": "~2.1.2",
+  "_originalSource": "jquery.kyco.googleplusfeed2",
+  "_direct": true
+}
